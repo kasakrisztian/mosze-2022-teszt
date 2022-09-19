@@ -32,5 +32,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Twice the pride double the fall" << std::endl;
     return 0;
 }
